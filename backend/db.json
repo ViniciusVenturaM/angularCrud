@@ -14,11 +14,6 @@
       "name": "Samsung S20",
       "price": 5000.99,
       "id": 3
-    },
-    {
-      "name": "Damon",
-      "price": "1.99",
-      "id": 4
     }
   ]
 }
